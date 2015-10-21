@@ -1,0 +1,20 @@
+{
+  "name": "moment-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/marcus7777/moment-js",
+  "authors": [
+    "MarcusHitchins <marcus@hhost.me>"
+  ],
+  "description": "moment-js as a polymer element",
+  "main": "moment-js.html",
+  "moduleType": [],
+  "keywords": [
+    "moment",
+    "time",
+    "date"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "moment": "~2.10.6"
+  }
+}
