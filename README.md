@@ -1,2 +1,2 @@
 # moment-js
-moment-js as a polymer element
+[moment.js](http://momentjs.com/docs/) as a polymer element
